@@ -1,0 +1,58 @@
+- ```HRVDA``` [HRVDA: High-Resolution Visual Document Assistant](https://arxiv.org/abs/2404.06918), (USTC, Tencent), CVPR-2024
+- ```LayoutLLM``` [LayoutLLM: Layout Instruction Tuning with Large Language Models for Document Understanding](https://arxiv.org/abs/2404.05225), (Alibaba, ZJU), CVPR-2024
+- ```OmniParser``` [OmniParser: A Unified Framework for Text Spotting, Key Information Extraction and Table Recognition](https://arxiv.org/abs/2403.19128), (Alibaba, HUST), CVPR-2024
+- ```mPLUG-DocOwl 1.5``` [mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding](https://arxiv.org/abs/2403.12895), (Alibaba, RUC), arXiv
+- ```TextMonkey``` [TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document](https://arxiv.org/abs/2403.04473), (HUST, Kingsoft), arXiv
+- ```DoCo``` [Enhancing Visual Document Understanding with Contrastive Learning in Large Visual-Language Models](https://arxiv.org/abs/2402.19014), (Tencent), CVPR-2024
+- ```InstructDoc``` [InstructDoc: A Dataset for Zero-Shot Generalization of Visual Document Understanding with Instructions](https://arxiv.org/abs/2401.13313), (NTT, Tohoku), AAAI-2024
+- ```DocLLM``` [DocLLM: A layout-aware generative language model for multimodal document understanding](https://arxiv.org/abs/2401.00908), (JPMorgan), arXiv
+- ```Vary``` [Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models](https://arxiv.org/abs/2312.06109), (Megvii, UCAS, HUST), ECCV-2024
+- ```TGDoc``` [Towards Improving Document Understanding: An Exploration on Text-Grounding via MLLMs](https://arxiv.org/abs/2311.13194), (USTC), arXiv
+- ```DocPedia``` [DocPedia: Unleashing the Power of Large Multimodal Model in the Frequency Domain for Versatile Document Understanding](https://arxiv.org/abs/2311.11810), (USTC, ByteDance), arXiv
+- ```Monkey``` [Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models](https://arxiv.org/abs/2311.06607), (HUST, Kingsoft), CVPR-2024
+- [Exploring OCR Capabilities of GPT-4V(ision) : A Quantitative and In-depth Evaluation](https://arxiv.org/abs/2310.16809), (SCUT), arXiv
+- ```SCOB``` [SCOB: Universal Text Understanding via Character-wise Supervised Contrastive Learning with Online Text Rendering for Bridging Domain Gap](https://arxiv.org/abs/2309.12382), (Naver, SNU), ICCV-2023
+- ```LMDX``` [LMDX: Language Model-based Document Information Extraction and Localization](https://arxiv.org/abs/2309.10952), (Google, UC San Diego), arXiv
+- ```SeRum``` [Attention Where It Matters: Rethinking Visual Document Understanding with Selective Region Concentration](https://arxiv.org/abs/2309.01131), (Tencent, USTC), ICCV-2023
+- ```Qwen-VL``` [Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond](https://arxiv.org/abs/2308.12966), (Alibaba), arXiv
+- ```UniDoc``` [UniDoc: A Universal Large Multimodal Model for Simultaneous Text Detection, Recognition, Spotting and Understanding](https://arxiv.org/abs/2308.11592), (USTC, ByteDance), arXiv
+- ```mPLUG-DocOwl``` [mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding](https://arxiv.org/abs/2307.02499), (Alibaba), arXiv
+- ```LLaVAR``` [LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding](https://arxiv.org/abs/2306.17107), (Georgia Tech, Adobe, Stanford), arXiv
+- ```DocFormerv2``` [DocFormerv2: Local Features for Document Understanding](https://arxiv.org/abs/2306.01733), (Amazon, Utah), AAAI-2024
+- ```GOSE``` [Global Structure Knowledge-Guided Relation Extraction Method for Visually-Rich Document](https://arxiv.org/abs/2305.13850), (ZJU, Alibaba, WPI), EMNLP-2023
+- [On the Hidden Mystery of OCR in Large Multimodal Models](https://arxiv.org/abs/2305.07895), (HUST, Microsoft, USTB, CAS, SCUT), arXiv
+- ```FormNetV2``` [FormNetV2: Multimodal Graph Contrastive Learning for Form Document Information Extraction](https://arxiv.org/abs/2305.02549), (Google), ACL-2023
+- ```GeoLayoutLM``` [GeoLayoutLM: Geometric Pre-training for Visual Information Extraction](https://arxiv.org/abs/2304.10759), (Alibaba), CVPR-2023
+- ```KVPFormer``` [A Question-Answering Approach to Key Value Pair Extraction from Form-like Document Images](https://arxiv.org/abs/2304.07957), (USTC, PKU, Microsoft), AAAI-2023
+- ```StrucTexTv2``` [StrucTexTv2: Masked Visual-Textual Prediction for Document Image Pre-training](https://arxiv.org/abs/2303.00289), (Baidu), ICLR-2023
+- ```Wukong-Reader``` [Wukong-Reader: Multi-modal Pre-training for Fine-grained Visual Document Understanding](https://arxiv.org/abs/2212.09621), (Huawei), ACL-2023
+- ```UDOP``` [Unifying Vision, Text, and Layout for Universal Document Processing](https://arxiv.org/abs/2212.02623), (UNC, Microsoft), CVPR-2023
+- ```ERNIE-Layout``` [ERNIE-Layout: Layout Knowledge Enhanced Pre-training for Visually-rich Document Understanding](https://arxiv.org/abs/2210.06155), (Baidu, ZJU), EMNLP-2022
+- ```Pix2Struct``` [Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding](https://arxiv.org/abs/2210.03347), (Google, Succinctly, CAM), ICML-2023
+- ```Bi-VLDoc``` [Bi-VLDoc: Bidirectional Vision-Language Modeling for Visually-Rich Document Understanding](https://arxiv.org/abs/2206.13155), (Alibaba, SCUT), arXiv
+- ```UDoc``` [Unified Pretraining Framework for Document Understanding](https://arxiv.org/abs/2204.10939), (Adobe), NeurIPS-2021
+- ```LayoutLMv3``` [LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking](https://arxiv.org/abs/2204.08387), (SYSU, Microsoft), ACM-MM-2022
+- ```Dessurt``` [End-to-end Document Recognition and Understanding with Dessurt](https://arxiv.org/abs/2203.16618), (BYU, Adobe), ECCV-2022
+- ```FormNet``` [FormNet: Structural Encoding beyond Sequential Modeling in Form Document Information Extraction](https://arxiv.org/abs/2203.08411), (Google), ACL-2022
+- ```XYLayoutLM``` [XYLayoutLM: Towards Layout-Aware Multimodal Networks For Visually-Rich Document Understanding](https://arxiv.org/abs/2203.06947), (SJTU, Ant), CVPR-2022
+- ```LiLT``` [LiLT: A Simple yet Effective Language-Independent Layout Transformer for Structured Document Understanding](https://arxiv.org/abs/2202.13669), (SCUT, IntSig, Peng Cheng Lab), ACL-2022
+- ```Donut``` [OCR-free Document Understanding Transformer](https://arxiv.org/abs/2111.15664), (Naver, Upstage, Tmax, Google, LBox), ECCV-2022
+- ```StrucTexT``` [StrucTexT: Structured Text Understanding with Multi-Modal Transformers](https://arxiv.org/abs/2108.02923), (Baidu, BUPT, Taikang), ACM-MM-2021
+- [Entity Relation Extraction as Dependency Parsing in Visually Rich Documents](https://arxiv.org/abs/2110.09915), (Alibaba), EMNLP-2021
+- ```BROS``` [BROS: A Pre-trained Language Model Focusing on Text and Layout for Better Key Information Extraction from Documents](https://arxiv.org/abs/2108.04539), (Naver, KAIST, LBox, Upstage), AAAI-2022
+- ```MatchVIE``` [MatchVIE: Exploiting Match Relevancy between Entities for Visual Information Extraction](https://arxiv.org/abs/2106.12940), (SCUT, Pazhou Lab, Ant, Lenovo), IJCAI-2021
+- ```DocFormer``` [DocFormer: End-to-End Transformer for Document Understanding](https://arxiv.org/abs/2106.11539), (Amazon), ICCV-2021
+- ```SelfDoc``` [SelfDoc: Self-Supervised Document Representation Learning](https://arxiv.org/abs/2106.03331), (Brandeis, Adobe), CVPR-2021
+- ```ViBERTgrid``` [ViBERTgrid: A Jointly Trained Multi-Modal 2D Document Representation for Key Information Extraction from Documents](https://arxiv.org/abs/2105.11672), (Microsoft, PKU, USTC), ICDAR-2021
+- ```StructuralLM``` [StructuralLM: Structural Pre-training for Form Understanding](https://arxiv.org/abs/2105.11210), (Alibaba), ACL-2021
+- ```LayoutXLM``` [LayoutXLM: Multimodal Pre-training for Multilingual Visually-rich Document Understanding](https://arxiv.org/abs/2104.08836), (Microsoft), arXiv
+- ```SDMG-R``` [Spatial Dual-Modality Graph Reasoning for Key Information Extraction](https://arxiv.org/abs/2103.14470), (SenseTime, XJTU), arXiv
+- ```TILT``` [Going Full-TILT Boogie on Document Understanding with Text-Image-Layout Transformer](https://arxiv.org/abs/2102.09550), (Applica, Poznan, AMU, UJ), ICDAR-2021
+- ```VIES``` [Towards Robust Visual Information Extraction in Real World: New Dataset and Novel Solution](https://arxiv.org/abs/2102.06732), (SCUT, Lenovo, XJTU), AAAI-2021
+- ```LayoutLMv2``` [LayoutLMv2: Multi-modal Pre-training for Visually-Rich Document Understanding](https://arxiv.org/abs/2012.14740), (HIT, Microsoft, SUDA), ACL-2021
+- ```TRIE``` [TRIE: End-to-End Text Reading and Information Extraction for Document Understanding](https://arxiv.org/abs/2005.13118), (Hikvision, ZJU), ACM-MM-2020
+- ```PICK``` [PICK: Processing Key Information Extraction from Documents using Improved Graph Learning-Convolutional Networks](https://arxiv.org/abs/2004.07464), (XZHMU, Ping An), ICPR-2020
+- ```LayoutLM``` [LayoutLM: Pre-training of Text and Layout for Document Image Understanding](https://arxiv.org/abs/1912.13318), (HIT, BUAA, Microsoft), KDD-2020
+- ```BERTgrid``` [BERTgrid: Contextualized Embedding for 2D Document Representation and Understanding](https://arxiv.org/abs/1909.04948), (SAP), NeurIPS-2019
+- [Graph Convolution for Multimodal Information Extraction from Visually Rich Documents](https://arxiv.org/abs/1903.11279), (Alibaba), NAACL-2019
+- ```Chargrid``` [Chargrid: Towards Understanding 2D Documents](https://arxiv.org/abs/1809.08799), (SAP), EMNLP-2018

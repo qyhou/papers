@@ -1,0 +1,7 @@
+- ```M2Doc``` [M2Doc: A Multi-Modal Fusion Approach for Document Layout Analysis](https://ojs.aaai.org/index.php/AAAI/article/view/28552), (SCUT, Alibaba), AAAI-2024
+- ```VGT``` [Vision Grid Transformer for Document Layout Analysis](https://arxiv.org/abs/2308.14978), (Alibaba), ICCV-2023
+- ```DiT``` [DiT: Self-supervised Pre-training for Document Image Transformer](https://arxiv.org/abs/2203.02378), (SJTU, Microsoft), ACM-MM-2022
+- ```VSR``` [VSR: A Unified Framework for Document Layout Analysis combining Vision, Semantics and Relations](https://arxiv.org/abs/2105.06220), (Hikvision, ZJU), ICDAR-2021
+- [Cross-Domain Document Object Detection: Benchmark Suite and Method](https://arxiv.org/abs/2003.13197), (NEU, Adobe), CVPR-2020
+- [Document Structure Extraction using Prior based High Resolution Hierarchical Semantic Segmentation](https://arxiv.org/abs/1911.12170), (Adobe), ECCV-2020
+- [Visual Detection with Context for Document Layout Analysis](https://aclanthology.org/D19-1348), (BNL), EMNLP-2019

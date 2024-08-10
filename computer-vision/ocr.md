@@ -1,0 +1,90 @@
+# End-to-End
+- [Turning a CLIP Model into a Scene Text Spotter](https://arxiv.org/abs/2308.10408), (HUST, Tencent), CVPR-2023
+- ```SPTS v2``` [SPTS v2: Single-Point Scene Text Spotting](https://arxiv.org/abs/2301.01635), (HUST, ByteDance, SCUT, ZJU, CUHK), Journal
+- ```ABINet++``` [ABINet++: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Spotting](https://arxiv.org/abs/2211.10578), (USTC, HDU), Journal
+- ```GLASS``` [GLASS: Global to Local Attention for Scene-Text Spotting](https://arxiv.org/abs/2208.03364), (Technion, Amazon), ECCV-2022
+- ```PageNet``` [PageNet: Towards End-to-End Weakly Supervised Page-Level Handwritten Chinese Text Recognition](https://arxiv.org/abs/2207.14807), (SCUT, HUST, Huawei, Pazhou Lab, Peng Cheng Lab), Journal
+- ```TESTR``` [Text Spotting Transformers](https://arxiv.org/abs/2204.01918), (UC San Diego, SJTU, Intel), CVPR-2022
+- ```SwinTextSpotter``` [SwinTextSpotter: Scene Text Spotting via Better Synergy between Text Detection and Text Recognition](https://arxiv.org/abs/2203.10209), (SCUT, CUHK, Huawei, IntSig, Peng Cheng Lab), CVPR-2022
+- ```SPTS``` [SPTS: Single-Point Text Spotting](https://arxiv.org/abs/2112.07917), (SCUT, ZJU, HUST, Huawei, CUHK), ACM-MM-2022
+- ```ABCNet v2``` [ABCNet v2: Adaptive Bezier-Curve Network for Real-time End-to-end Text Spotting](https://arxiv.org/abs/2105.03620), (SCUT, Adelaide), Journal
+- ```PAN++``` [PAN++: Towards Efficient and Accurate End-to-End Spotting of Arbitrarily-Shaped Text](https://arxiv.org/abs/2105.00405), (NJU, HKU, NJUST, SenseTime, Alibaba, Monash), Journal
+- ```PGNet``` [PGNet: Real-time Arbitrarily-Shaped Text Spotting with Point Gathering Network](https://arxiv.org/abs/2104.05458), (Xidian, Baidu), AAAI-2021
+- ```MANGO``` [MANGO: A Mask Attention Guided One-Stage Scene Text Spotter](https://arxiv.org/abs/2012.04350), (Hikvision, Tongji, ZJU), AAAI-2021
+- ```AE TextSpotter``` [AE TextSpotter: Learning Visual and Linguistic Representation for Ambiguous Text Spotting](https://arxiv.org/abs/2008.00714), (NJU, SenseTime, HKU, Alibaba, Adelaide), ECCV-2020
+- ```CRAFTS``` [Character Region Attention For Text Spotting](https://arxiv.org/abs/2007.09629), (Naver), ECCV-2020
+- ```Mask TextSpotter v3``` [Mask TextSpotter v3: Segmentation Proposal Network for Robust Scene Text Spotting](https://arxiv.org/abs/2007.09482), (HUST, Facebook), ECCV-2020
+- ```ABCNet``` [ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Network](https://arxiv.org/abs/2002.10200), (SCUT, Adelaide, Huawei), CVPR-2020
+- ```Text Perceptron``` [Text Perceptron: Towards End-to-End Arbitrary-Shaped Text Spotting](https://arxiv.org/abs/2002.06820), (Hikvision, ZJU), AAAI-2020
+- ```TextDragon``` [TextDragon: An End-to-End Framework for Arbitrary Shaped Text Spotting](https://ieeexplore.ieee.org/document/9009034), (CAS, UCAS), ICCV-2019
+- ```CharNet``` [Convolutional Character Networks](https://arxiv.org/abs/1910.07954), (Malong, Adelaide), ICCV-2019
+- ```Mask TextSpotter v2``` [Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes](https://arxiv.org/abs/1908.08207), (HUST, Megvii), Journal
+- ```Mask TextSpotter v1``` [Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes](https://arxiv.org/abs/1807.02242), (HUST, Megvii), ECCV-2018
+- [An end-to-end TextSpotter with Explicit Alignment and Attention](https://arxiv.org/abs/1803.03474), (Adelaide, CSIRO, Malong, CAS), CVPR-2018
+- ```FOTS``` [FOTS: Fast Oriented Text Spotting with a Unified Network](https://arxiv.org/abs/1801.01671), (SenseTime, CAS), CVPR-2018
+- [Towards End-to-end Text Spotting with Convolutional Recurrent Neural Networks](https://arxiv.org/abs/1707.03985), (Adelaide, NWPU), ICCV-2017
+
+# Text Detection
+- ```TextBPN++``` [Arbitrary Shape Text Detection via Boundary Transformer](https://arxiv.org/abs/2205.05320), (USTB), Journal
+- [Vision-Language Pre-Training for Boosting Scene Text Detectors](https://arxiv.org/abs/2204.13867), (Alibaba, HUST), CVPR-2022
+- [Few Could Be Better Than All: Feature Sampling and Grouping for Scene Text Detection](https://arxiv.org/abs/2203.15221), (NetEase, HUST), CVPR-2022
+- ```DBNet++``` [Real-Time Scene Text Detection with Differentiable Binarization and Adaptive Scale Fusion](https://arxiv.org/abs/2202.10304), (HUST, Huawei, WeRide, ROC, Alibaba), Journal
+- ```TextBPN``` [Adaptive Boundary Proposal Network for Arbitrary Shape Text Detection](https://arxiv.org/abs/2107.12664), (USTB, Tencent), ICCV-2021
+- ```CentripetalText``` [CentripetalText: An Efficient Text Instance Representation for Scene Text Detection](https://arxiv.org/abs/2107.05945), (PKU), NeurIPS-2021
+- ```FCENet``` [Fourier Contour Embedding for Arbitrary-Shaped Text Detection](https://arxiv.org/abs/2104.10442), (SCUT, SenseTime, Pazhou Lab, SJTU, Shanghai AI Lab), CVPR-2021
+- ```MOST``` [MOST: A Multi-Oriented Scene Text Detector with Localization Refinement](https://arxiv.org/abs/2104.01070), (HUST, Alibaba, NJU), CVPR-2021
+- ```ContourNet``` [ContourNet: Taking a Further Step toward Accurate Arbitrary-shaped Scene Text Detection](https://arxiv.org/abs/2004.04940), (USTC), CVPR-2020
+- ```DRRG``` [Deep Relational Reasoning Graph Network for Arbitrary Shape Text Detection](https://arxiv.org/abs/2003.07493), (USTB, Tencent), CVPR-2020
+- ```DBNet``` [Real-time Scene Text Detection with Differentiable Binarization](https://arxiv.org/abs/1911.08947), (HUST, Megvii, SJTU, Onlyou Tech), AAAI-2020
+- ```SegLink++``` [SegLink++: Detecting Dense and Arbitrary-shaped Scene Text by Instance-aware Component Grouping](https://www.sciencedirect.com/science/article/abs/pii/S0031320319302511), (HUST, Alibaba), Journal
+- ```PAN``` [Efficient and Accurate Arbitrary-Shaped Text Detection with Pixel Aggregation Network](https://arxiv.org/abs/1908.05900), (NJU, Tongji, UESTC, Megvii, Adelaide), ICCV-2019
+- [Learning Shape-Aware Embedding for Scene Text Detection](https://ieeexplore.ieee.org/document/8954257), (CUHK, JHU, Tencent), CVPR-2019
+- ```LOMO``` [Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes](https://arxiv.org/abs/1904.06535), (Baidu, XMU), CVPR-2019
+- ```CRAFT``` [Character Region Awareness for Text Detection](https://arxiv.org/abs/1904.01941), (Naver), CVPR-2019
+- ```TextField``` [TextField: Learning A Deep Direction Field for Irregular Scene Text Detection](https://arxiv.org/abs/1812.01393), (HUST, Alibaba), Journal
+- ```SPCNET``` [Scene Text Detection with Supervised Pyramid Context Network](https://arxiv.org/abs/1811.08605), (Tongji, UESTC, Megvii), AAAI-2019
+- ```PSENet``` [Shape Robust Text Detection with Progressive Scale Expansion Network](https://arxiv.org/abs/1806.02559), (NJUST, NJU), CVPR-2019
+- ```PixelLink``` [PixelLink: Detecting Scene Text via Instance Segmentation](https://arxiv.org/abs/1801.01315), (ZJU, Alibaba, CVTE, CAS), AAAI-2018
+- ```EAST``` [EAST: An Efficient and Accurate Scene Text Detector](https://arxiv.org/abs/1704.03155), (Megvii), CVPR-2017
+- [Deep Direct Regression for Multi-Oriented Scene Text Detection](https://arxiv.org/abs/1703.08289), (CAS), ICCV-2017
+- ```SegLink``` [Detecting Oriented Text in Natural Images by Linking Segments](https://arxiv.org/abs/1703.06520), (HUST, Cornell), CVPR-2017
+- ```DMPNet``` [Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection](https://arxiv.org/abs/1703.01425), (SCUT), CVPR-2017
+- ```TextBoxes++``` [TextBoxes++: A Single-Shot Oriented Scene Text Detector](https://arxiv.org/abs/1801.02765), (HUST), Journal
+- ```TextBoxes``` [TextBoxes: A Fast Text Detector with a Single Deep Neural Network](https://arxiv.org/abs/1611.06779), (HUST), AAAI-2017
+- ```CTPN``` [Detecting Text in Natural Image with Connectionist Text Proposal Network](https://arxiv.org/abs/1609.03605), (CAS, Oxford, CUHK), ECCV-2016
+- [Multi-Oriented Text Detection with Fully Convolutional Networks](https://arxiv.org/abs/1604.04018), (HUST, SHU), CVPR-2016
+
+# Text Recognition
+- ```CPPD``` [Context Perception Parallel Decoder for Scene Text Recognition](https://arxiv.org/abs/2307.12270), (Fudan, BJTU, Baidu), arXiv
+- ```PARSeq``` [Scene Text Recognition with Permuted Autoregressive Sequence Models](https://arxiv.org/abs/2207.06966), (UP), ECCV-2022
+- ```SVTR``` [SVTR: Scene Text Recognition with a Single Visual Model](https://arxiv.org/abs/2205.00159), (BJTU, Fudan, Baidu), IJCAI-2022
+- ```S-GTR``` [Visual Semantics Allow for Textual Reasoning Better in Scene Text Recognition](https://arxiv.org/abs/2112.12916), (WHU, Sydney, JD), AAAI-2022
+- ```TrOCR``` [TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models](https://arxiv.org/abs/2109.10282), (BUAA, Microsoft), AAAI-2021
+- ```VisionLAN``` [From Two to One: A New Scene Text Recognizer with Visual Language Modeling Network](https://arxiv.org/abs/2108.09661), (USTC, Huawei), ICCV-2021
+- ```PIMNet``` [PIMNet: A Parallel, Iterative and Mimicking Network for Scene Text Recognition](https://arxiv.org/abs/2109.04145), (CAS, UCAS, CUC, MSCF), ACM-MM-2021
+- ```PREN2D``` [Primitive Representation Learning for Scene Text Recognition](https://arxiv.org/abs/2105.04286), (Tsinghua), CVPR-2021
+- ```ABINet``` [Read Like Humans: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Recognition](https://arxiv.org/abs/2103.06495), (USTC), CVPR-2021
+- ```SLOAN``` [SLOAN: Scale-Adaptive Orientation Attention Network for Scene Text Recognition](https://ieeexplore.ieee.org/document/9305987), (CAS, UCAS, Peng Cheng Lab), Journal
+- ```RobustScanner``` [RobustScanner: Dynamically Enhancing Positional Clues for Robust Text Recognition](https://arxiv.org/abs/2007.07542), (SenseTime, XJTU), ECCV-2020
+- ```SRN``` [Towards Accurate Scene Text Recognition with Semantic Reasoning Networks](https://arxiv.org/abs/2003.12294), (UCAS, Baidu, CAS), CVPR-2020
+- ```SCATTER``` [SCATTER: Selective Context Attentional Scene Text Recognizer](https://arxiv.org/abs/2003.11288), (Amazon), CVPR-2020
+- ```GTC``` [GTC: Guided Training of CTC Towards Efficient and Accurate Scene Text Recognition](https://arxiv.org/abs/2002.01276), (NTU, SenseTime), AAAI-2020
+- ```DAN``` [Decoupled Attention Network for Text Recognition](https://arxiv.org/abs/1912.10205), (SCUT, Lenovo), AAAI-2020
+- ```Rosetta``` [Rosetta: Large scale system for text detection and recognition in images](https://arxiv.org/abs/1910.05085), (Facebook), KDD-2018
+- ```SATRN``` [On Recognizing Texts of Arbitrary Shapes with 2D Self-Attention](https://arxiv.org/abs/1910.04396), (Naver), CVPR-2020
+- ```MASTER``` [MASTER: Multi-Aspect Non-local Network for Scene Text Recognition](https://arxiv.org/abs/1910.02562), (Ping An, XZHMU, HUST), Journal
+- ```ScRN``` [Symmetry-constrained Rectification Network for Scene Text Recognition](https://arxiv.org/abs/1908.01957), (HUST, PKU, Oxford, Megvii), ICCV-2019
+- [What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis](https://arxiv.org/abs/1904.01906), (Naver, KyotoU), ICCV-2019
+- ```MORAN``` [A Multi-Object Rectified Attention Network for Scene Text Recognition](https://arxiv.org/abs/1901.03003), (SCUT), Journal
+- [Show, Attend and Read: A Simple and Strong Baseline for Irregular Text Recognition](https://arxiv.org/abs/1811.00751), (Adelaide, NWPU), AAAI-2019
+- ```NRTR``` [NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text Recognition](https://arxiv.org/abs/1806.00926), (CAS, UCAS), ICDAR-2019
+- ```Char-net``` [Char-net: a character-aware neural network for distorted scene text recognition](https://dl.acm.org/doi/abs/10.5555/3504035.3504911), (HKU), AAAI-2018
+- ```AON``` [AON: Towards Arbitrarily-Oriented Text Recognition](https://arxiv.org/abs/1711.04226), (Hikvision, Tongji, Fudan), CVPR-2018
+- [Reading Scene Text with Attention Convolutional Sequence Modeling](https://arxiv.org/abs/1709.04303), (CAS, UCAS), Journal
+- ```FAN``` [Focusing Attention: Towards Accurate Text Recognition in Natural Images](https://arxiv.org/abs/1709.02054), (Hikvision, Fudan, SJTU), ICCV-2017
+- [Scene Text Recognition with Sliding Convolutional Character Models](https://arxiv.org/abs/1709.01727), (CAS), arXiv
+- [Learning to read irregular text with attention mechanisms](https://dl.acm.org/doi/10.5555/3172077.3172347), (PSU), IJCAI-2017
+- ```STAR-Net``` [STAR-Net: A SpaTial Attention Residue Network for Scene Text Recognition](https://i.cs.hku.hk/~kykwong/publications/wliu_bmvc2016.pdf), (HKU, Baidu), BMVC-2016
+- ```RARE``` [Robust Scene Text Recognition with Automatic Rectification](https://arxiv.org/abs/1603.03915), (HUST), CVPR-2016
+- ```R2AM``` [Recursive Recurrent Nets with Attention Modeling for OCR in the Wild](https://arxiv.org/abs/1603.03101), (UC San Diego, Yahoo), CVPR-2016
+- ```CRNN``` [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition](https://arxiv.org/abs/1507.05717), (HUST), Journal
