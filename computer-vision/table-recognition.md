@@ -1,6 +1,7 @@
 # Methodology
+- ```SEMv3``` [SEMv3: A Fast and Robust Approach to Table Separation Line Detection](https://arxiv.org/abs/2405.11862), (USTC, iFLYTEK), IJCAI-2024
 - ```UniTable``` [UniTable: Towards a Unified Framework for Table Structure Recognition via Self-Supervised Pretraining](https://arxiv.org/abs/2403.04822), (Georgia Tech, ADP), arXiv
-- ```LORE++``` [LORE++: Logical Location Regression Network for Table Structure Recognition with Pre-training](https://arxiv.org/abs/2401.01522), (Alibaba, ZJU), Journal
+- ```LORE++``` [LORE++: Logical Location Regression Network for Table Structure Recognition with Pre-training](https://arxiv.org/abs/2401.01522), (Alibaba, ZJU), Journal.2025
 - [High-Performance Transformers for Table Structure Recognition Need Early Convolutions](https://arxiv.org/abs/2311.05565), (Georgia Tech, ADP), NeurIPS-2023
 - ```GridFormer``` [GridFormer: Towards Accurate Table Structure Recognition via Grid Prediction](https://arxiv.org/abs/2309.14962), (Baidu, SCUT), ACM-MM-2023
 - ```DRCC``` [Divide Rows and Conquer Cells: Towards Structure Recognition for Large Tables](https://www.ijcai.org/proceedings/2023/0152.pdf), (CAS, UCAS, Hikvision, CUC), IJCAI-2023
@@ -10,20 +11,20 @@
 - ```SKCN``` [Scene Table Structure Recognition with Segmentation and Key Point Collaboration](https://link.springer.com/chapter/10.1007/978-3-031-41679-8_17), (SCUT, UCL), ICDAR-2023
 - ```TableVLM``` [TableVLM: Multi-modal Pre-training for Table Structure Recognition](https://aclanthology.org/2023.acl-long.137/), (Fudan, IIPL, Hundsun), ACL-2023
 - ```TRACE``` [TRACE: Table Reconstruction Aligned to Corner and Edges](https://arxiv.org/abs/2305.00630), (Naver, Works Mobile, Upstage, Kakao), ICDAR-2023
-- ```TSRFormer DQ-RETR``` [Robust Table Structure Recognition with Dynamic Queries Enhanced Detection Transformer](https://arxiv.org/abs/2303.11615), (USTC, Microsoft, SJTU, Alibaba), Journal
+- ```TSRFormer DQ-RETR``` [Robust Table Structure Recognition with Dynamic Queries Enhanced Detection Transformer](https://arxiv.org/abs/2303.11615), (USTC, Microsoft, SJTU, Alibaba), Journal.2023
 - ```GrabTab``` [Grab What You Need: Rethinking Complex Table Structure Recognition with Flexible Components Deliberation](https://arxiv.org/abs/2303.09174), (Tencent), AAAI-2024
 - [An End-to-End Multi-Task Learning Model for Image-based Table Recognition](https://arxiv.org/abs/2303.08648), (NII), VISAPP-2023
 - ```WSTabNet``` [Rethinking Image-based Table Recognition Using Weakly Supervised Methods](https://arxiv.org/abs/2303.07641), (NII), ICPRAM-2023
 - ```VAST``` [Improving Table Structure Recognition with Visual-Alignment Sequential Coordinate Modeling](https://arxiv.org/abs/2303.06949), (Huawei, PKU), CVPR-2023
 - ```SEMv2``` [SEMv2: Table Separation Line Detection Based on Conditional Convolution](https://arxiv.org/abs/2303.04384), (USTC, iFLYTEK), arXiv
 - ```LORE``` [LORE: Logical Location Regression Network for Table Structure Recognition](https://arxiv.org/abs/2303.03730), (ZJU, Alibaba), AAAI-2023
-- [Contextual transformer sequence-based recognition network for medical examination reports](https://link.springer.com/article/10.1007/s10489-022-04420-4), (SDNU), Journal
-- ```TSRNet``` [Table Structure Recognition and Form Parsing by End-to-End Object Detection and Relation Parsing](https://www.sciencedirect.com/science/article/abs/pii/S0031320322004265), (CAS, UCAS), Journal
+- [Contextual transformer sequence-based recognition network for medical examination reports](https://link.springer.com/article/10.1007/s10489-022-04420-4), (SDNU), Journal.2022
+- ```TSRNet``` [Table Structure Recognition and Form Parsing by End-to-End Object Detection and Relation Parsing](https://www.sciencedirect.com/science/article/abs/pii/S0031320322004265), (CAS, UCAS), Journal.2022
 - [Complex Table Structure Recognition in the Wild Using Transformer and Identity Matrix-Based Augmentation](https://link.springer.com/chapter/10.1007/978-3-031-21648-0_37), (SCUT), ICFHR-2022
-- ```LRCAANet``` [Table Structure Recognition Method Based on Lightweight Network and Channel Attention](https://www.mdpi.com/2079-9292/12/3/673), (QDU), Journal
+- ```LRCAANet``` [Table Structure Recognition Method Based on Lightweight Network and Channel Attention](https://www.mdpi.com/2079-9292/12/3/673), (QDU), Journal.2023
 - [Table Structure Recognition Based on Grid Shape Graph](https://ieeexplore.ieee.org/document/9980172), (SNU, LG, Ajou), APSIPA-2022
 - ```GTRNet``` [GTRNet: a graph-based table reconstructed network](https://ieeexplore.ieee.org/document/10097891), (SJTU), ICTAI-2022
-- [Tables to LaTeX: Structure and Content Extraction from Scientific Tables](https://arxiv.org/abs/2210.17246), (IITGN), Journal
+- [Tables to LaTeX: Structure and Content Extraction from Scientific Tables](https://arxiv.org/abs/2210.17246), (IITGN), Journal.2022
 - ```PP-StructureV2``` [PP-StructureV2: A Stronger Document Analysis System](https://arxiv.org/abs/2210.05391), (Baidu), arXiv
 - ```TRUST``` [TRUST: An Accurate and End-to-End Table structure Recognizer Using Splitting-based Transformers](https://arxiv.org/abs/2208.14687), (Baidu, DUT), arXiv
 - ```TSRFormer``` [TSRFormer: Table Structure Recognition with Transformers](https://arxiv.org/abs/2208.04921), (Microsoft, UCAS, USTC, SJTU), ACM-MM-2022
@@ -31,7 +32,7 @@
 - ```RCANet``` [RCANet: A Rows and Columns Aggregated Network for Table Structure Recognition](https://ieeexplore.ieee.org/document/9778621), (JIT, NJUPT), ICTC-2022
 - ```DocReL``` [Relational Representation Learning in Visually-Rich Documents](https://arxiv.org/abs/2205.02411), (Tencent), ACM-MM-2022
 - ```T2``` [A Two-Phase Approach for Recognizing Tables with Complex Structures](https://link.springer.com/chapter/10.1007/978-3-031-00123-9_47), (BIT, RUC), DASFAA-2022
-- ```RobusTabNet``` [Robust Table Detection and Structure Recognition from Heterogeneous Document Images](https://arxiv.org/abs/2203.09056), (USTC, Microsoft), Journal
+- ```RobusTabNet``` [Robust Table Detection and Structure Recognition from Heterogeneous Document Images](https://arxiv.org/abs/2203.09056), (USTC, Microsoft), Journal.2022
 - ```TableFormer``` [TableFormer: Table Structure Understanding with Transformers](https://arxiv.org/abs/2203.01017), (IBM), CVPR-2022
 - ```NCGM``` [Neural Collaborative Graph Machines for Table Structure Recognition](https://arxiv.org/abs/2111.13359), (Tencent), CVPR-2022
 - [Visual Understanding of Complex Table Structures from Document Images](https://arxiv.org/abs/2111.07129), (IIIT), WACV-2022
@@ -42,12 +43,12 @@
 - ```CoDec``` [Table Structure Recognition Using CoDec Encoder-Decoder](https://link.springer.com/chapter/10.1007/978-3-030-86159-9_5), (Mastercard), ICDAR-2021
 - [Adaptive Scaling for Archival Table Structure Recognition](https://link.springer.com/chapter/10.1007/978-3-030-86549-8_6), (CAS, UCAS), ICDAR-2021
 - [Rethinking Table Structure Recognition Using Sequence Labeling Methods](https://link.springer.com/chapter/10.1007/978-3-030-86331-9_35), (PKU, Huawei), ICDAR-2021
-- ```SEM``` [Split, Embed and Merge: An accurate table structure recognizer](https://arxiv.org/abs/2107.05214), (USTC), Journal
+- ```SEM``` [Split, Embed and Merge: An accurate table structure recognizer](https://arxiv.org/abs/2107.05214), (USTC), Journal.2022
 - ```TGRNet``` [TGRNet: A Table Graph Reconstruction Network for Table Structure Recognition](https://arxiv.org/abs/2106.10598), (BJTU, Sydney, JD), ICCV-2021
 - ```LGPMA``` [LGPMA: Complicated Table Structure Recognition with Local and Global Pyramid Mask Alignment](https://arxiv.org/abs/2105.06224), (Hikvision, ZJU), ICDAR-2021
 - ```TableMASTER``` [PingAn-VCGroup's Solution for ICDAR 2021 Competition on Scientific Literature Parsing Task B: Table Recognition to HTML](https://arxiv.org/abs/2105.01848), (Ping An), ICDAR-2021
 - ```ClusTi``` [ClusTi: Clustering Method for Table Structure Recognition in Scanned Images](https://link.springer.com/article/10.1007/s11036-021-01759-9), (Sorbonne, VTCC, TLU), ddd
-- [Guided Table Structure Recognition through Anchor Optimization](https://arxiv.org/abs/2104.10538), (DFKI, TU Kaiserslautern, LTU, Bilojix), Journal
+- [Guided Table Structure Recognition through Anchor Optimization](https://arxiv.org/abs/2104.10538), (DFKI, TU Kaiserslautern, LTU, Bilojix), Journal.2021
 - ```GTE-Cell``` [Global Table Extractor (GTE): A Framework for Joint Table Identiﬁcation and Cell Structure Recognition Using Visual Context](https://ieeexplore.ieee.org/document/9423317), (UMich, IBM), WACV-2021
 - [Image-based Table Cell Detection: a Novel Table Structure Decomposition Method with New Dataset](https://ieeexplore.ieee.org/document/9413122), (SJTU), ICPR-2020
 - [A Deep Semantic Segmentation Model for Image-based Table Structure Recognition](https://ieeexplore.ieee.org/document/9321003), (PKU), ICSP-2020
@@ -73,10 +74,10 @@
 
 # Datasets
 - ```GenTSR``` [A Study on Reproducibility and Replicability of Table Structure Recognition Methods](https://arxiv.org/abs/2304.10439), (ODU, PSU), ICDAR-2023
-- ```TabRecSet``` [A large-scale dataset for end-to-end table recognition in the wild](https://arxiv.org/abs/2303.14884), (SCUT, CRRC Times, Pazhou Lab), Journal
+- ```TabRecSet``` [A large-scale dataset for end-to-end table recognition in the wild](https://arxiv.org/abs/2303.14884), (SCUT, CRRC Times, Pazhou Lab), Journal.2023
 - ```iFLYTAB``` [SEMv2: Table Separation Line Detection Based on Conditional Convolution](https://arxiv.org/abs/2303.04384), (USTC, iFLYTEK), arXiv
 - ```GraphTable``` [GTRNet: a graph-based table reconstructed network](https://ieeexplore.ieee.org/document/10097891), (SJTU), ICTAI-2022
-- ```Tab-To-Tex``` [Tables to LaTeX: Structure and Content Extraction from Scientific Tables](https://arxiv.org/abs/2210.17246), (IITGN), Journal
+- ```Tab-To-Tex``` [Tables to LaTeX: Structure and Content Extraction from Scientific Tables](https://arxiv.org/abs/2210.17246), (IITGN), Journal.2022
 - ```TUCD``` [Visual Understanding of Complex Table Structures from Document Images](https://arxiv.org/abs/2111.07129), (IIIT), WACV-2022
 - ```PubTables-1M``` [PubTables-1M: Towards comprehensive table extraction from unstructured documents](https://arxiv.org/abs/2110.00061), (Microsoft), CVPR-2022
 - ```WTW``` [Parsing Table Structures in the Wild](https://arxiv.org/abs/2109.02199), (WHU, Alibaba), ICCV-2021
@@ -97,6 +98,8 @@
 - ```UNLV``` [An open approach towards the benchmarking of table structure recognition systems](https://dl.acm.org/doi/10.1145/1815330.1815345), (DFKI), DAS-2010
 
 # Data Processing
+- [Latent Diffusion for Guided Document Table Generation](https://arxiv.org/abs/2408.09800), (DFKI, RPTU), ICDAR-2024
+- [Synthesizing Realistic Data for Table Recognition](https://arxiv.org/abs/2404.11100), (iWudao, HUST), ICDAR-2024
 - ```OTSL``` [Optimized Table Tokenization for Table Structure Recognition](https://arxiv.org/abs/2305.03393), (IBM), ICDAR-2023
 - ```PyramidTabNet``` [PyramidTabNet: Transformer based Table Recognition in Image-based Documents](https://link.springer.com/chapter/10.1007/978-3-031-41734-4_26), (NUST, NCAI), ICDAR-2023
 - ```TabSynth``` [Scene Table Structure Recognition with Segmentation and Key Point Collaboration](https://link.springer.com/chapter/10.1007/978-3-031-41679-8_17), (SCUT, UCL), ICDAR-2023
@@ -112,9 +115,9 @@
 - [Rethinking Table Recognition using Graph Neural Networks](https://arxiv.org/abs/1905.13391), (NUST, NCAI), ICDAR-2019
 
 # Literature Review
-- [A Review On Table Recognition Based On Deep Learning](https://arxiv.org/abs/2312.04808), (HKUST, Pacific), Journal
+- [A Review On Table Recognition Based On Deep Learning](https://arxiv.org/abs/2312.04808), (HKUST, Pacific), Journal.2024
 - [A Study on Reproducibility and Replicability of Table Structure Recognition Methods](https://arxiv.org/abs/2304.10439), (OCU, PSU), ICDAR-2023
 - [Deep learning for table detection and structure recognition: A survey](https://arxiv.org/abs/2211.08469), (AUN, IITU, KazMunayGas, Satbayev, ITI, CBNU), ddd
-- [表格识别技术研究进展](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20220609), (PKU, Huawei, SCUT), Journal
+- [表格识别技术研究进展](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20220609), (PKU, Huawei, SCUT), Journal.2022
 - [ICDAR 2021 Competition on Scientific Literature Parsing](https://arxiv.org/abs/2106.14616), (IBM, UniMelb, Oracle), ICDAR-2021
 - [Current Status and Performance Analysis of Table Recognition in Document Images with Deep Neural Networks](https://arxiv.org/abs/2104.14272), (DFKI, TU Kaiserslautern, LTU, Bilojix), ddd
